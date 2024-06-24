@@ -44,3 +44,6 @@ alt="rohithjuluru2201" height="30" width="40" /></a>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith9652" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith9652&theme=dark&hide_border=false" alt="rohith9652" /></p>
+
+  ### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
